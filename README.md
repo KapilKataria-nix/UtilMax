@@ -1,4 +1,4 @@
-# ResoTrack
+# UtilMax
 
 ## CPU and Memory Utilization Monitor
 
