@@ -12,6 +12,7 @@ def index():
         message = "High CPU or High Memory Utilization Detected! Please scale up"
     return render_template("index.html",cpu_metric=cpu_percent,mem_metric=memory_percent,message=message)
 
+
 if __name__ == '__main__':
     app.run(debug=True,host='0.0.0.0')
 
