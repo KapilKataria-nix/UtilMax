@@ -1,1 +1,0 @@
-print('kushu aaaaah')
