@@ -1,7 +1,7 @@
 version: '3.3'
 services:
   web : 
-    build : .
+    image : nixnonymous/util-jenkin-max:latest
     ports : 
       - "5000:5000"
 
